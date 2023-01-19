@@ -3,8 +3,7 @@
 
 /*****************************
  EE209 Assignment 3 
- NAME -Reda Geberemedhin Derbew
- ID- 20180756
+ NAME -Reda
  *****************************/
 /* customer_manager.h */
 
