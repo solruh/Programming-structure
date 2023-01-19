@@ -1,6 +1,6 @@
 /***************************************
-Name-Reda Geberemedhin Derbew   sgrep.c
-Assignment number- 2        ID -20180756
+Name-Reda 
+Assignment number- 2  
 ****************************************/
 
 
