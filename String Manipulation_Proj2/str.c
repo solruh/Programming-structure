@@ -1,6 +1,5 @@
 /* ********************************************************
-Name - Reda Geberemedhin Derbew     ASSIGNMENT NUMBER -2
-ID -20180756                      	str.c
+Name - Reda 
 *********************************************************/
 #include<stdio.h>
 #include<assert.h>
